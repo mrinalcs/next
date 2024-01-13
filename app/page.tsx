@@ -1,5 +1,5 @@
 import Image from 'next/image'
-
+import avatar from 'app/mrinal.jpg';
 
 export default function Home() {
   return (
